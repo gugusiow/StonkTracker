@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "AAPL",
+    "shares": 2.0,
+    "purchase_price": 190.0,
+    "date_added": "2025-08-29 17:58:09"
+  },
+  {
+    "ticker": "NVDA",
+    "shares": 1.0,
+    "purchase_price": 114.0,
+    "date_added": "2025-08-29 17:58:24"
+  },
+  {
+    "ticker": "NVDA",
+    "shares": 1.0,
+    "purchase_price": 111.0,
+    "date_added": "2025-08-29 17:58:30"
+  },
+  {
+    "ticker": "GOOGL",
+    "shares": 2.0,
+    "purchase_price": 165.0,
+    "date_added": "2025-08-29 17:58:43"
+  }
+]
